@@ -2,7 +2,7 @@
 Same safety interlock i made for Arduino Opta but remade in TIA portal
 
 ## Ladder Logic Overview
-![Two-Hand Safety Logic](logic_diagram.png)
+![Two-Hand Safety Logic](Main.pdf)
 
 ## Hardware Allocation
 
