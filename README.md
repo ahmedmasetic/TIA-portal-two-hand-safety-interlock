@@ -7,6 +7,7 @@ Same safety interlock i made for Arduino Opta but remade in TIA portal
 ## Hardware Allocation
 
 | Variable Name | Address | Type | Function |
+| :--- | :--- | :--- | :--- |
 | `button1` | `%I0.0` | BOOL | Left Hand Push Button |
 | `button2` | `%I0.1` | BOOL | Right Hand Push Button |
 | `limit_switch` | `%I0.2` | BOOL | Position Feedback / Interlock |
